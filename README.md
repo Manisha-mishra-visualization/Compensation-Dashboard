@@ -1,10 +1,8 @@
 # Compensation Dashboard
 
-⚠️ **Sensitive data notice:** This dashboard contains compensation data — salary, bonus, CTC, and compa-ratio broken down by department, gender, job level, and location. This is among the most sensitive categories of HR data a company holds. **Do not push real compensation figures to a public repository.** Keep this repo **private**, or replace all figures with fully synthetic/dummy data before publishing. Treat the numbers below as illustrative of the dashboard's structure, not as data cleared for public release.
-
 A Power BI dashboard analyzing employee compensation — pay levels, gender pay distribution, performance-linked increments, and geographic salary ranges — to support compensation planning and pay-equity review.
 
-![Dashboard Overview](docs/screenshots/overview_dashboard.png)
+(https://github.com/Manisha-mishra-visualization/Compensation-Dashboard/blob/main/overview_dashboard.png)
 
 ## Overview
 
@@ -73,10 +71,6 @@ Compensation-Dashboard/
 3. Open `pbix/Compensation_Dashboard.pbix` in **Power BI Desktop**.
 4. Update the data source path/connection if needed (Home → Transform Data → Data Source Settings).
 5. Refresh the data and explore.
-
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## Data Privacy
 
